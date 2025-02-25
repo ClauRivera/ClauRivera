@@ -4,7 +4,7 @@
 
 🔍 Apasionada por la **Seguridad de la Información** y la optimización de procesos en entornos tecnológicos.  
 📑 Actualmente trabajo en **análisis y documentación de procesos** alineados con normativas internacionales.  
-🚀 Mi objetivo es consolidar mi carrera en **Ciberseguridad** especializándome en auditorías de seguridad y gestión de riesgos.  
+🚀 Mi objetivo es consolidar mi carrera en **Ciberseguridad** enfocado en auditorías y gestión de riesgos.  
 ✍️ Graduada en la carrera de Periodismo, disfruto escribir artículos sobre **ciberseguridad** para educar a los usuarios y fomentar buenas prácticas.  
 
 ---
