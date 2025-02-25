@@ -22,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/devclaurivera)  
  
 
-## 📰 Algunos de mis artículos destacados para El Diario  
+## 📰 Algunos de mis artículos para El Diario  
 
 - 🤖 <a href="https://eldiario.com/2024/02/29/que-son-sesgos-algoritmicos-causaron-problemas-ia-google/" target="_blank">¿Qué son los sesgos algorítmicos y por qué causaron problemas a Google?</a> - La imprecisión en los resultados de estas herramientas revivió el debate sobre la discriminación en la tecnología  
 - 🎯 <a href="https://eldiario.com/2023/10/25/que-es-un-prompt-y-por-que-se-volvio-un-estudio-clave-en-la-inteligencia-artificial/" target="_blank">¿Qué es un prompt y por qué se volvió un estudio clave en la inteligencia artificial?</a> - La herramienta permite a los usuarios interactuar de manera efectiva y controlada con modelos de lenguaje avanzados  
