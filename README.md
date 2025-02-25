@@ -1,6 +1,6 @@
 # Hola, soy Claudia Rivera 👋  
 
-## 🛡️ Analista de Procesos de TI | Seguridad de la Información  
+## 🛡️ Analista de Procesos de TI  
 
 🔍 Apasionada por la **Seguridad de la Información** y la optimización de procesos en entornos tecnológicos.  
 📑 Actualmente trabajo en **análisis y documentación de procesos** alineados con normativas internacionales.  
