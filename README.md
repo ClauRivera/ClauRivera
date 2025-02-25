@@ -24,10 +24,11 @@
 
 ## 📰 Algunos de mis artículos destacados para El Diario  
 
-- 🤖 [¿Qué son los sesgos algorítmicos y por qué causaron problemas a Google?](https://eldiario.com/2024/02/29/que-son-sesgos-algoritmicos-causaron-problemas-ia-google/) - La imprecisión en los resultados de estas herramientas revivió el debate sobre la discriminación en la tecnología  
-- 🎯 [¿Qué es un prompt y por qué se volvió un estudio clave en la inteligencia artificial?](https://eldiario.com/2023/10/25/que-es-un-prompt-y-por-que-se-volvio-un-estudio-clave-en-la-inteligencia-artificial/) - La herramienta permite a los usuarios interactuar de manera efectiva y controlada con modelos de lenguaje avanzados  
-- 🎭 [¿Qué es la ingeniería social y cómo la aprovechan los ciberdelincuentes?](https://eldiario.com/2023/11/08/la-ingenieria-social-y-como-la-aprovechan-los-ciberdelincuentes/) - El crecimiento de la IA ha innovado los métodos de los atacantes  
-- 🔒 [Qué es el pharming y cómo prevenir este delito informático](https://eldiario.com/2023/12/22/que-es-el-pharming-y-como-prevenir-este-delito-informatico/) - Los ciberdelincuentes buscan redirigir el tráfico de un sitio web hacia una réplica falsa  
+- 🤖 <a href="https://eldiario.com/2024/02/29/que-son-sesgos-algoritmicos-causaron-problemas-ia-google/" target="_blank">¿Qué son los sesgos algorítmicos y por qué causaron problemas a Google?</a> - La imprecisión en los resultados de estas herramientas revivió el debate sobre la discriminación en la tecnología  
+- 🎯 <a href="https://eldiario.com/2023/10/25/que-es-un-prompt-y-por-que-se-volvio-un-estudio-clave-en-la-inteligencia-artificial/" target="_blank">¿Qué es un prompt y por qué se volvió un estudio clave en la inteligencia artificial?</a> - La herramienta permite a los usuarios interactuar de manera efectiva y controlada con modelos de lenguaje avanzados  
+- 🎭 <a href="https://eldiario.com/2023/11/08/la-ingenieria-social-y-como-la-aprovechan-los-ciberdelincuentes/" target="_blank">¿Qué es la ingeniería social y cómo la aprovechan los ciberdelincuentes?</a> - El crecimiento de la IA ha innovado los métodos de los atacantes  
+- 🔒 <a href="https://eldiario.com/2023/12/22/que-es-el-pharming-y-como-prevenir-este-delito-informatico/" target="_blank">Qué es el pharming y cómo prevenir este delito informático</a> - Los ciberdelincuentes buscan redirigir el tráfico de un sitio web hacia una réplica falsa  
+  
 
 
 
